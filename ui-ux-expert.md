@@ -371,14 +371,6 @@
 
 ---
 
-## 🎯 How to Use This
-
-* Treat **each chapter as a lesson**
-* Exercises = **mandatory**
-* By Chapter 21 → you’re **client-ready**
-
----
-
 
 
 
