@@ -5,6 +5,11 @@
 # 📘 UI/UX DESIGN — MASTER CONTENT LIST (Chapters & Exercises)
 ---
 
+### Reference:
+[Free Figma UX Design UI Essentials Course](https://www.youtube.com/watch?v=QJBP2uy8LcU&t=2036s)
+
+
+
 ## CHAPTER 1 — Introduction to UI/UX Design
 
 ### Topics
